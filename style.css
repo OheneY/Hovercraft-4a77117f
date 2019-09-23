@@ -1,0 +1,82 @@
+table{
+		font-family: Arial, Helvetica, sans-serif;
+}
+th {
+	background-color: #F5F5F5;
+	height: 80px;
+	width: 90px;
+	font-size: 24px;
+}
+.period {
+	background-color: #F5F5F5;
+	height: 80px;
+	width: 90px;
+	font-size: 24px;
+}
+.element {
+	height: 80px;
+	width: 90px;
+	vertical-align: top;
+}
+td {
+	background-color: #FFFFFF;
+	height: 80px;
+	width: 90px;
+	text-align: center;
+	padding: 0px;
+}
+p {
+	margin: 0px;
+
+}
+.elementnr{
+	color: #000000;
+	font-size: 18px;
+}
+.elementltr{
+	color: #000000;
+	font-size: 25px;
+}
+.period1{
+	border: 2px solid #0F5781;
+	background-color: #FF9966;
+	height: 80px;
+	width: 90px;
+	vertical-align: top;
+}
+#period1nr{
+		color: #008000;
+		font-size: 18px;
+}
+#period1ltr{
+	color: #008000;
+	font-size: 25px;
+}
+.group1{
+	border: 2px solid #0F5781;
+	background-color: #DDA0DC;
+	height: 80px;
+	width: 90px;
+	vertical-align: top;
+}
+.group2{
+	border: 2px solid #0F5781;
+	background-color: #90C7FF;
+	height: 80px;
+	width: 90px;
+	vertical-align: top;
+}
+.group3{
+	border: 2px solid #0F5781;
+	background-color: #FEF28E;
+	height: 80px;
+	width: 90px;
+	vertical-align: top;
+}
+
+a:hover {
+    background-color: #CDFF00;
+  }
+ a{
+ 	cursor: grab;
+ }
