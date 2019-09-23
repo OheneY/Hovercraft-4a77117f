@@ -25,6 +25,9 @@ td {
 	text-align: center;
 	padding: 0px;
 }
+td:hover{
+	background-color: #CDFF00;
+}
 p {
 	margin: 0px;
 
@@ -74,9 +77,6 @@ p {
 	vertical-align: top;
 }
 
-a:hover {
-    background-color: #CDFF00;
-  }
- a{
+a{
  	cursor: grab;
  }
